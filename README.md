@@ -8,6 +8,7 @@
 好用的网站：
 	* 站长之家 http://tool.chinaz.com/
 	* 分辨率测试网站：http://zh.infobyip.com/testwebsiteresolution.php?url=http%3A&width=800&height=600&in_browser=true
+	搜书网站：https://www.jiumodiary.com/
 
 jmeter ：
 	* 详解https://blog.csdn.net/m0_37529303/article/details/75453230
