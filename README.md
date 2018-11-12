@@ -11,6 +11,7 @@
 
 jmeter ：
 	* 详解https://blog.csdn.net/m0_37529303/article/details/75453230
+	  搜书网站：https://www.jiumodiary.com/
 
 fiddler：
 	* 模拟请求：https://www.cnblogs.com/zhuqil/archive/2011/10/11/2206918.html
