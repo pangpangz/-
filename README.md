@@ -1,3 +1,4 @@
+2018年12月22日16:05:19
 语言：
 	* python：  http://www.runoob.com/python/python-basic-syntax.html
 	* 在线学python http://crossincode.com/course/lesson_list/
