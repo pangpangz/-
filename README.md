@@ -35,4 +35,5 @@ Chrome F12 ：https://segmentfault.com/a/1190000010302235github：     https://w
 	* class类   http://yangcongchufang.com/%E9%AB%98%E7%BA%A7python%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/python-object-class.html
 	* 学习路线：https://www.cnblogs.com/yoyoketang/p/6537568.html
 	* 框架：https://blog.csdn.net/huilan_same
+	selenium项目https://me.csdn.net/huilan_same
 
